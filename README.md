@@ -7,6 +7,8 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncin
 I added a timer to see the time it takes to capture all the balls.
 
 ## Play the game
+Controls: WASD
+
 ```bash
 git clone https://github.com/yacmeno/bouncyballs.git
 cd path/to/repo
