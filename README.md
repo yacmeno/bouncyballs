@@ -8,7 +8,7 @@ I added a timer to see the time it takes to capture all the balls.
 
 ## Play the game
 Controls: WASD
-
+tested on chrome and firefox
 ```bash
 git clone https://github.com/yacmeno/bouncyballs.git
 cd path/to/repo
